@@ -4,7 +4,7 @@
  */
 
 import { useState, useEffect } from 'react'
-import { Box, Typography, Grid, Button, CircularProgress, Alert } from '@mui/material'
+import { Box, Typography, Grid, Button, Alert } from '@mui/material'
 import { useNavigate } from 'react-router-dom'
 import AddIcon from '@mui/icons-material/Add'
 import BusinessIcon from '@mui/icons-material/Business'

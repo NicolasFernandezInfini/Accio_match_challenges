@@ -11,7 +11,6 @@ import {
   TextField,
   Button,
   InputAdornment,
-  CircularProgress,
   Alert,
   Chip,
   IconButton,
@@ -26,10 +25,6 @@ import LocationOnIcon from '@mui/icons-material/LocationOn'
 import RefreshIcon from '@mui/icons-material/Refresh'
 import CloudIcon from '@mui/icons-material/Cloud'
 import CheckCircleIcon from '@mui/icons-material/CheckCircle'
-import AccioCard from '../components/common/AccioCard'
-import AccioBadge from '../components/common/AccioBadge'
-import AccioTag from '../components/common/AccioTag'
-import ProgressBar from '../components/common/ProgressBar'
 import LoadingSpinner from '../components/common/LoadingSpinner'
 import { companiesAPI, Company } from '../services/companies'
 

@@ -26,7 +26,7 @@ import CheckCircleIcon from '@mui/icons-material/CheckCircle'
 import VisibilityIcon from '@mui/icons-material/Visibility'
 import RefreshIcon from '@mui/icons-material/Refresh'
 import LoadingSpinner from '../components/common/LoadingSpinner'
-import { matchingAPI, MatchingResult } from '../services/matching'
+import { MatchingResult } from '../services/matching'
 import { challengesAPI } from '../services/challenges'
 
 const MatchingPage = () => {
