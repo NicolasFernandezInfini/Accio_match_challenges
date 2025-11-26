@@ -1,0 +1,4 @@
+-r base.txt
+
+# Production optimizations
+gevent==24.2.1
